@@ -19,7 +19,7 @@ No API keys, no credit cards, and no prompts leave your machine (when using loca
      ```bash
      ollama serve
      ```
-2. .NET 8 SDK or later
+2. .NET 10 SDK or later
 
 ## Dependencies
 
