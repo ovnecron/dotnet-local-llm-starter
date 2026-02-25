@@ -3,6 +3,8 @@
 This is a minimal starter to run a local LLM via Ollama using C# with `Microsoft.Extensions.AI` and `OllamaSharp`.
 No API keys, no credit cards, and no prompts leave your machine (when using local Ollama).
 
+Companion repo for the blog post: https://www.lukaswalter.dev/posts/local-llms-in-.net/
+
 ## Prerequisites
 
 1. Ollama
