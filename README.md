@@ -36,7 +36,7 @@ dotnet add src/LocalLLM.Console/LocalLLM.Console.csproj package OllamaSharp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dotnet-local-llm-starter.git
+   git clone https://github.com/ovnecron/dotnet-local-llm-starter.git
    cd dotnet-local-llm-starter
    ```
 2. Run:
